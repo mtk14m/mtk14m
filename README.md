@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @mtk14m
-- 👀 Check also my gitlab for more project https://gitlab.com/mtk14minou
+- Backend, Platform and Devops Lover!
+- JAVA, TYPESCRIPT, NODEJS, GOLANG.
+- I Love to learn new thinks and I put my code heere.
+- 👀 Check also my gitlab for more projects https://gitlab.com/mtk14minou
